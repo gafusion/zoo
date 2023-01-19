@@ -1,4 +1,4 @@
-H_PRINT_FLAG=1
+#H_PRINT_FLAG=1
 # Numerical Resolution
 N_ENERGY=8
 E_MAX=8
